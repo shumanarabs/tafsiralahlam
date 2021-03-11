@@ -18,9 +18,9 @@ Origine du mot
 # Découvrez vos sujets préférés.
 - Divers dictionnaires et encyclopédies spécialisés:
 - Glossaire et dictionnaire d'argot Dictionnaire
-- Dictionnaire médical
-- Dictionnaire juridique
-- scientifique
+- Dictionnaire médical ahlam
+- Dictionnaire juridique tafsir
+- scientifique [tafsirahlam](https://www.arabsdreams.com/tafsir-ahlam-ibn-sirin/) ibn sirin
 
 Acronymes et abréviations le dictionnaire financier
 -  Plus!
