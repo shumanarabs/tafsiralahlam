@@ -23,9 +23,8 @@ Origine du mot
 - scientifique
 
 Acronymes et abréviations le dictionnaire financier
-+ Plus!
-
-Exclusif
+-  Plus!
+- Exclusif
 # Gagnez des repas pour les enfants affamés grâce au partenariat de tafsir ahlam avec le Programme alimentaire mondial - en utilisant simplement l'application!
 
 Ce n'est pas une version d'essai - vous obtenez tout gratuitement et pour toujours. Des dictionnaires hors ligne supplémentaires sont disponibles dans d'autres langues dans la version Pro.
@@ -34,7 +33,7 @@ Cela semble trop beau pour être vrai?
 
 Lisez de vrais avis pour découvrir pourquoi nos utilisateurs disent que tafsir ahlam est la meilleure application de dictionnaire qu'ils aient jamais utilisée.
 
-# Pour les développeurs d'applications: l'application tafsir ahlam est accessible par d'autres applications à l'aide d'appels API (appelez Farlex pour obtenir des instructions).
+Pour les développeurs d'applications: l'application tafsir ahlam est accessible par d'autres applications à l'aide d'appels API (appelez Farlex pour obtenir des instructions).
 
 # L'interprétation d'un rêve sur une robe est un exemple de tafsir ahlam
 
