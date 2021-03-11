@@ -1,11 +1,11 @@
 
-#Voici ce qui fait du dictionnaire d'interprétation de rêve l'application de dictionnaire la plus simple à utiliser:
+# Voici ce qui fait du dictionnaire d'interprétation de rêve l'application de dictionnaire la plus simple à utiliser:
 
-## Accédez à la définition, au dictionnaire des rêves ou à l'expression à l'aide d'un seul bouton.
-## Parcourez l'application dans plus d'une douzaine de langues grâce à une interface multilingue.
-## Ajustez la taille de la police selon vos préférences.
-# Partagez vos mots et vos rêves préférés via les réseaux sociaux, les e-mails, les messages texte ou WhatsApp.
-# Recherches avancées.
+-  Accédez à la définition, au dictionnaire des rêves ou à l'expression à l'aide d'un seul bouton.
+-  Parcourez l'application dans plus d'une douzaine de langues grâce à une interface multilingue.
+-  Ajustez la taille de la police selon vos préférences.
+-  Partagez vos mots et vos rêves préférés via les réseaux sociaux, les e-mails, les messages texte ou WhatsApp.
+-  Recherches avancées.
 
 
 # Construisez votre propre vocabulaire tafsiralahlam.
@@ -16,11 +16,11 @@ Origine du mot
 + Plus!
 
 # Découvrez vos sujets préférés.
-Divers dictionnaires et encyclopédies spécialisés:
-Glossaire et dictionnaire d'argot Dictionnaire
-Dictionnaire médical
-Dictionnaire juridique
-scientifique
+- Divers dictionnaires et encyclopédies spécialisés:
+- Glossaire et dictionnaire d'argot Dictionnaire
+- Dictionnaire médical
+- Dictionnaire juridique
+- scientifique
 
 Acronymes et abréviations le dictionnaire financier
 + Plus!
