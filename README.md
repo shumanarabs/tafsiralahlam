@@ -10,7 +10,7 @@
 
 # Construisez votre propre vocabulaire tafsiralahlam.
 Apprenez les mots que vous recherchez. Comprend:
-La prononciation phonémique des rêves
+[La prononciation phonétique](http://research.jyu.fi/phonfr/Manuel_2011.html). des rêves
 Exemples de phrases
 Origine du mot
 + Plus!
