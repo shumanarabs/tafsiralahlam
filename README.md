@@ -1,5 +1,5 @@
 
-# Voici ce qui fait du dictionnaire d'interprétation de rêve l'application de dictionnaire la plus simple à utiliser:
+# Voici ce qui fait du dictionnaire de tafsir ahlam l'application de dictionnaire la plus simple à utiliser:
 
 -  Accédez à la définition, au dictionnaire des rêves ou à l'expression à l'aide d'un seul bouton.
 -  Parcourez l'application dans plus d'une douzaine de langues grâce à une interface multilingue.
